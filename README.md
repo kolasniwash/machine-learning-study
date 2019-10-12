@@ -1,7 +1,4 @@
-# Study of Machine Learning Algorithms and Sci-Kit Learn
-
-
-A collection of jupter notebooks produced while studying how several machine learning algorthms work under the hood.
+# Study of Machine Learning Algorithms
 
 Contained in this repository:
 
@@ -23,3 +20,7 @@ In folder neuralnetworks:
 3. [Solving Soduko: Image processing pipeline (inprogress)](https://github.com/nicholasjhana/machine-learning-study/blob/master/neuralnets/Sudoku%20Solver.ipynb)
 4. [Classifying different Cats](https://github.com/nicholasjhana/machine-learning-study/blob/master/neuralnets/perceptron-classification-cats_ns_complete.ipynb)
 5. [Original perceptron paper implementation](https://github.com/nicholasjhana/machine-learning-study/blob/master/neuralnets/perceptron_algorithm_ns_solution.ipynb)
+
+In folder time series forecasting:
+1. [Home Energy Consumption LSTM Single Step & Multi Step Predictions](https://github.com/nicholasjhana/machine-learning-study/blob/master/time%20series%20forecasting/home-electrical-demand-forecast-lstm.ipynb)
+2. [Water consumption forecasting with ARIMA](https://github.com/nicholasjhana/machine-learning-study/blob/master/time%20series%20forecasting/water-consumption-forecast.ipynb)
